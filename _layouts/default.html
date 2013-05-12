@@ -1,45 +1,55 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
-        <meta name="viewport" content="width=device-width">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width">
 
-        <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
+    <!-- syntax highlighting CSS -->
+    <link rel="stylesheet" href="/css/syntax.css">
 
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/stylesheet.css">
-    </head>
-    <body>
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/stylesheet.css">
+</head>
+<body>
 
-        <div class="container">
-          <div class="site">
-            <div class="header">
-              <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-              <a class="extra" href="/">home</a>
-            </div>
-     
-                {{ content }}
+<header>
+    <div class="container">
+        <h1 class="title"><a href="/">{{ site.name }}</a></h1>
 
-            <div class="footer">
-              <div class="contact">
-                <p>
-                  Scorix<br />
-                  Software Testing Engineer<br />
-                  scorix@gmail.com
-                </p>
-              </div>
-              <div class="contact">
-                <p>
-                  <a href="http://github.com/yourusername/">github.com/scorix</a><br />
-                  <a href="http://twitter.com/yourusername/">twitter.com/scorix</a><br />
-                </p>
-              </div>
-            </div>
-          </div>
-        </div> <!-- /container -->
+        <h2></h2>
 
-    </body>
+        <section id="downloads">
+            <a href="https://github.com/scorix" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+        </section>
+    </div>
+</header>
+
+<div class="container">
+    <div class="site">
+
+        {{ content }}
+
+    </div>
+</div>
+<!-- /container -->
+
+<footer>
+    <div class="contact">
+        <p>
+            Scorix<br/>
+            Software Testing Engineer<br/>
+            scorix@gmail.com
+        </p>
+    </div>
+    <div class="contact">
+        <p>
+            <a href="http://github.com/yourusername/">github.com/scorix</a><br/>
+            <a href="http://twitter.com/yourusername/">twitter.com/scorix</a><br/>
+        </p>
+    </div>
+</footer>
+
+</body>
 </html>
