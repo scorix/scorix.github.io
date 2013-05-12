@@ -245,76 +245,32 @@ a {
   zoom:1;
 }
 
-
-
-/*****************************************************************************/
-/*
-/* Site
-/*
-/*****************************************************************************/
-
-.site {
-    font-size: 115%;
+footer {
+    font-size: 80%;
     text-align: justify;
     width: 42em;
-    margin: 3em auto 2em;
     line-height: 1.5em;
-}
-
-.site .header a {
-    font-weight: bold;
-    text-decoration: none;
-}
-
-.site .header h1.title {
-    display: inline-block;
-    margin-bottom: 2em;
-}
-
-.site .header h1.title a {
-    color: #a00;
-}
-
-.site .header h1.title a:hover {
-    color: #000;
-}
-
-.site .header a.extra {
-    color: #aaa;
-    margin-left: 1em;
-}
-
-.site .header a.extra:hover {
-    color: #000;
-}
-
-.site .meta {
-    color: #aaa;
-}
-
-.site .footer {
-    font-size: 80%;
     color: #666;
     border-top: 4px solid #eee;
-    margin-top: 2em;
+    margin: 2em auto;
     overflow: hidden;
 }
 
-.site .footer .contact {
+footer .contact {
     float: left;
     margin-right: 3em;
 }
 
-.site .footer .contact a {
+footer .contact a {
     color: #8085C1;
 }
 
-.site .footer .rss {
+footer .rss {
     margin-top: 1.1em;
     margin-right: -.2em;
     float: right;
 }
 
-.site .footer .rss img {
+footer .rss img {
     border: 0;
 }
