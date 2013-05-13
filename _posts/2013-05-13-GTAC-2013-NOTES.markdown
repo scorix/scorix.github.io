@@ -18,18 +18,26 @@ categories: testing automation
 ### Testing Systems at Scale @Twitter
 *James Waldrop* (Twitter)
 
-* [iago][iago] -- A load generator, built for engineers.
+* [iago][iago]
 
-* [Finagle][Finagle] -- Finagle is an extensible RPC system for the JVM, used to construct high-concurrency servers.
+  A load generator, built for engineers.
 
-* [Thrift][Thrift] -- The Apache Thrift software framework, for scalable cross-language services development, combines a software stack with a code generation engine to build services that work efficiently and seamlessly between C++, Java, Python, PHP, Ruby, Erlang, Perl, Haskell, C#, Cocoa, JavaScript, Node.js, Smalltalk, OCaml and Delphi and other languages.
+* [Finagle][Finagle]
+
+  Finagle is an extensible RPC system for the JVM, used to construct high-concurrency servers.
+
+* [Thrift][Thrift]
+
+  The Apache Thrift software framework, for scalable cross-language services development, combines a software stack with a code generation engine to build services that work efficiently and seamlessly between C++, Java, Python, PHP, Ruby, Erlang, Perl, Haskell, C#, Cocoa, JavaScript, Node.js, Smalltalk, OCaml and Delphi and other languages.
 
 * [Slides](http://goo.gl/9VY2b)
 
 ### How Do You Test a Mobile OS?
 *David Burns* (Mozilla) and *Malini Das* (Mozilla)
 
-* [Marionette][Marionette] -- Marionette is an automation driver.  It can remotely drive either the UI or the internal JS of a program built on the Gecko platform. Marionette runs as a server on your test machine, allowing you to connect to that server and remotely drive tests and send commands. Its goal is to replicate what selenium does for the browser: to enable the tester the ability to send commands to a remote test machine.
+* [Marionette][Marionette]
+
+  Marionette is an automation driver.  It can remotely drive either the UI or the internal JS of a program built on the Gecko platform. Marionette runs as a server on your test machine, allowing you to connect to that server and remotely drive tests and send commands. Its goal is to replicate what selenium does for the browser: to enable the tester the ability to send commands to a remote test machine.
 
 * [Slides](http://goo.gl/7UeEI)
 
