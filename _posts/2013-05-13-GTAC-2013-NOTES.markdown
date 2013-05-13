@@ -5,11 +5,7 @@ date:   2013-05-13 22:49:00
 categories: testing automation
 ---
 
-# Google Test Automation Conference 2013
-
-
-[https://developers.google.com/google-test-automation-conference/2013](https://developers.google.com/google-test-automation-conference/2013)
-
+# [Google Test Automation Conference 2013](https://developers.google.com/google-test-automation-conference/2013)
 
 
 ## Day 1
@@ -17,7 +13,7 @@ categories: testing automation
 ### Opening Keynote - Evolution from Quality Assurance to Test Engineering
 *Ari Shamash* (Google)
 
----> [Slides](http://goo.gl/76Ggf)
+* [Slides](http://goo.gl/76Ggf)
 
 ### Testing Systems at Scale @Twitter
 *James Waldrop* (Twitter)
@@ -28,56 +24,56 @@ categories: testing automation
 
 * [Thrift][Thrift] -- The Apache Thrift software framework, for scalable cross-language services development, combines a software stack with a code generation engine to build services that work efficiently and seamlessly between C++, Java, Python, PHP, Ruby, Erlang, Perl, Haskell, C#, Cocoa, JavaScript, Node.js, Smalltalk, OCaml and Delphi and other languages.
 
----> [Slides](http://goo.gl/9VY2b)
+* [Slides](http://goo.gl/9VY2b)
 
 ### How Do You Test a Mobile OS?
 *David Burns* (Mozilla) and *Malini Das* (Mozilla)
 
 * [Marionette][Marionette] -- Marionette is an automation driver.  It can remotely drive either the UI or the internal JS of a program built on the Gecko platform. Marionette runs as a server on your test machine, allowing you to connect to that server and remotely drive tests and send commands. Its goal is to replicate what selenium does for the browser: to enable the tester the ability to send commands to a remote test machine.
 
----> [Slides](http://goo.gl/7UeEI)
+* [Slides](http://goo.gl/7UeEI)
 
 ### Mobile Automation in Continuous Delivery Pipeline
 *Igor Dorovskikh* (Expedia) and *Kaustubh Gawande* (Expedia)
 
 
 
----> [Slides](http://goo.gl/pOSkp)
+* [Slides](http://goo.gl/pOSkp)
 
 ### Automated Set-Top Box Testing with GStreamer and OpenCV
 *David Röthlisberger* (YouView)
 
----> [Video on Youtube](http://www.youtube.com/watch?v=Fdn2LxxM7wA&list=SPSIUOFhnxEiCODb8XQB-RUQ0RGNZ2yW7d)
+* [Video on Youtube](http://www.youtube.com/watch?v=Fdn2LxxM7wA&list=SPSIUOFhnxEiCODb8XQB-RUQ0RGNZ2yW7d)
 
 ### Webdriver for Chrome
 *Ken Kania* (Google)
 
----> [Slides](http://goo.gl/6rA9q)
+* [Slides](http://goo.gl/6rA9q)
 
 ### Karma - Test Runner for JavaScript
 *Vojta Jina* (Google)
 
----> [Video on Youtube](http://www.youtube.com/watch?v=YG5DEzaQBIc&list=SPSIUOFhnxEiCODb8XQB-RUQ0RGNZ2yW7d)
+* [Video on Youtube](http://www.youtube.com/watch?v=YG5DEzaQBIc&list=SPSIUOFhnxEiCODb8XQB-RUQ0RGNZ2yW7d)
 
 ### Automated Video Quality Measurements
 *Patrik Höglund* (Google)
 
----> [Slides](http://goo.gl/sF7Fm)
+* [Slides](http://goo.gl/sF7Fm)
 
 ### When Bad Things Happen to Good Applications...
 *Minal Mishra* (Netflix)
 
----> [Slides](http://goo.gl/8epF0)
+* [Slides](http://goo.gl/8epF0)
 
 ### Testing for Educational Gaming and Educational Gaming for Testing
 *Tao Xie* (North Carolina State University)
 
----> [Slides](http://goo.gl/wb3nm)
+* [Slides](http://goo.gl/wb3nm)
 
 ### Closing Keynote - How Facebook Tests Facebook on Android
 *Simon Stewart* (Facebook)
 
----> [Slides](http://goo.gl/278b4)
+* [Slides](http://goo.gl/278b4)
 
 
 ## Day 2
@@ -85,62 +81,62 @@ categories: testing automation
 ### Opening Keynote - Testable JavaScript - Architecting Your Application for Testability
 *Mark Trostler* (Google)
 
----> [Slides](http://goo.gl/E1v14)
+* [Slides](http://goo.gl/E1v14)
 
 ### Breaking the Matrix - Android Testing at Scale
 *Thomas Knych* (Google), *Stefan Ramsauer* (Google) and *Valera Zakharov* (Google)
 
----> [Slides](http://goo.gl/RltPp)
+* [Slides](http://goo.gl/RltPp)
 
 ### Android UI Automation
 *Guang Zhu (朱光)* (Google) and *Adam Momtaz* (Google)
 
----> [Slides](http://goo.gl/kpJCL)
+* [Slides](http://goo.gl/kpJCL)
 
 ### Appium: Automation for Mobile Apps
 *Jonathan Lipps* (Sauce Labs)
 
----> [Slides](http://goo.gl/IuvKF)
+* [Slides](http://goo.gl/IuvKF)
 
 ### Building Scalable Mobile Test Infrastructure for Google+ Mobile
 *Eduardo Bravo* (Google)
 
----> [Slides](http://goo.gl/xWZKt)
+* [Slides](http://goo.gl/xWZKt)
 
 ### Espresso: Fresh Start to Android UI Testing
 *Valera Zakharov* (Google)
 
----> [Slides](http://goo.gl/ieunS)
+* [Slides](http://goo.gl/ieunS)
 
 ### Web Performance Testing with WebDriver
 *Michael Klepikov* (Google)
 
----> [Slides](http://goo.gl/5QHVY)
+* [Slides](http://goo.gl/5QHVY)
 
 ### Continuous Maps Data Testing
 *Yvette Nameth* (Google) and *Brendan Dhein* (Google)
 
----> [Slides](http://goo.gl/UG3BN)
+* [Slides](http://goo.gl/UG3BN)
 
 ### Finding Culprits Automatically in Failing Builds - i.e. Who Broke the Build?
 *Celal Ziftci* (UCSD) and *Vivek Ramavajjala* (Google)
 
----> [Slides](http://goo.gl/q9dGd)
+* [Slides](http://goo.gl/q9dGd)
 
 ### Empirical Investigation of Software Product Line Quality
 *Katerina Goseva-Popstojanova* (West Virginia University)
 
----> [Slides](http://goo.gl/pPQ1u)
+* [Slides](http://goo.gl/pPQ1u)
 
 ### AddressSanitizer, ThreadSanitizer and MemorySanitizer -- Dynamic Testing Tools for C++
 *Kostya Serebryany* (Google)
 
----> [Slides](http://goo.gl/FPVd8)
+* [Slides](http://goo.gl/FPVd8)
 
 ### Closing Keynote - Drinking the Ocean - Finding XSS at Google Scale
 *Claudio Criscione* (Google)
 
----> [Slides](http://goo.gl/8qqHA)
+* [Slides](http://goo.gl/8qqHA)
 
 [iago]: https://github.com/twitter/iago
 [Finagle]: https://github.com/twitter/finagle
