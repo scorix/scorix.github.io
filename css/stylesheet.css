@@ -16,6 +16,10 @@ body {
   margin: 0 auto;
 }
 
+article.container {
+    max-width: 900px;
+}
+
 section {
   display: block;
   margin: 0 0 20px 0;
