@@ -20,15 +20,15 @@ categories: testing automation
 
 * [iago][iago]
 
-  A load generator, built for engineers.
+> A load generator, built for engineers.
 
 * [Finagle][Finagle]
 
-  Finagle is an extensible RPC system for the JVM, used to construct high-concurrency servers.
+> Finagle is an extensible RPC system for the JVM, used to construct high-concurrency servers.
 
 * [Thrift][Thrift]
 
-  The Apache Thrift software framework, for scalable cross-language services development, combines a software stack with a code generation engine to build services that work efficiently and seamlessly between C++, Java, Python, PHP, Ruby, Erlang, Perl, Haskell, C#, Cocoa, JavaScript, Node.js, Smalltalk, OCaml and Delphi and other languages.
+> The Apache Thrift software framework, for scalable cross-language services development, combines a software stack with a code generation engine to build services that work efficiently and seamlessly between C++, Java, Python, PHP, Ruby, Erlang, Perl, Haskell, C#, Cocoa, JavaScript, Node.js, Smalltalk, OCaml and Delphi and other languages.
 
 * [Slides](http://goo.gl/9VY2b)
 
@@ -37,7 +37,7 @@ categories: testing automation
 
 * [Marionette][Marionette]
 
-  Marionette is an automation driver.  It can remotely drive either the UI or the internal JS of a program built on the Gecko platform. Marionette runs as a server on your test machine, allowing you to connect to that server and remotely drive tests and send commands. Its goal is to replicate what selenium does for the browser: to enable the tester the ability to send commands to a remote test machine.
+> Marionette is an automation driver.  It can remotely drive either the UI or the internal JS of a program built on the Gecko platform. Marionette runs as a server on your test machine, allowing you to connect to that server and remotely drive tests and send commands. Its goal is to replicate what selenium does for the browser: to enable the tester the ability to send commands to a remote test machine.
 
 * [Slides](http://goo.gl/7UeEI)
 
