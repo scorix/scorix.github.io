@@ -51,6 +51,7 @@ categories: testing automation
 * [Jenkins][Jenkins]
 
 > Jenkins Continuous Integration Server.
+
 > In a nutshell Jenkins CI is the leading open-source continuous integration server. Built with Java, it provides over 300 plugins to support building and testing virtually any project.
 
 * [Frank][Frank]
@@ -60,13 +61,16 @@ categories: testing automation
 * [Calabash][Calabash]
 
 > Calabash is an automated testing technology for Android and iOS native and hybrid applications. This repository contains support for iOS, for Android, see [Calabash Landing Page](http://calaba.sh/).
+
 > Calabash is a free open source project, developed and maintained by [LessPainful - automated app testing](https://www.lesspainful.com/).
 
 * [crashlytics][crashlytics]
 * [PonyDebugger][PonyDebugger]
 
 > PonyDebugger is a remote debugging toolset. It is a client library and gateway server combination that uses Chrome Developer Tools on your browser to debug your application's network traffic and managed object contexts.
+
 > To use PonyDebugger, you must implement the client in your application and connect it to the gateway server. There is currently an iOS client and the gateway server.
+
 > PonyDebugger is licensed under [the Apache Licence, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
 
 * [Radiator][Radiator]
