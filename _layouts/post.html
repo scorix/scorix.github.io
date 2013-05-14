@@ -3,9 +3,7 @@ layout: default
 ---
 <h2>{{ page.title }}</h2>
 
-<section>
-    {{ content }}
-</section>
+{{ content }}
 
 <p class="meta">Posted by Scorix at {{ page.date | date_to_string }}</p>
 <p class="meta">Tags: {{ page.tags | array_to_sentence_string }}</p>
