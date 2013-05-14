@@ -5,4 +5,6 @@ date:   2013-05-13 16:56:00
 categories: testing automation
 ---
 
-<iframe width="640" height="360" src="http://www.youtube.com/embed/ShBxhL4t7i0" frameborder="0"></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ShBxhL4t7i0
+" target="_blank"><img src="http://img.youtube.com/vi/ShBxhL4t7i0/0.jpg" 
+alt="Google Test Automation Conference 2013 Day 1" width="640" height="360" border="10" /></a>
