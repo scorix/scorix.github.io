@@ -44,7 +44,46 @@ categories: testing automation
 ### Mobile Automation in Continuous Delivery Pipeline
 *Igor Dorovskikh* (Expedia) and *Kaustubh Gawande* (Expedia)
 
+* [Jasmine][Jasmine]
 
+> Jasmine is a Behavior Driven Development testing framework for JavaScript. It does not rely on browsers, DOM, or any JavaScript framework. Thus it's suited for websites, Node.js projects, or anywhere that JavaScript can run.
+
+* [Jenkins][Jenkins]
+
+> In a nutshell Jenkins CI is the leading open-source continuous integration server. Built with Java, it provides over 300 plugins to support building and testing virtually any project.
+
+* [Frank][Frank]
+
+> Frank is 'Selenium for native iOS apps'. It allows you to write automated acceptance tests which verify the functionality of your native iOS app.
+
+* [Calabash][Calabash]
+
+> Calabash is an automated testing technology for Android and iOS native and hybrid applications. This repository contains support for iOS, for Android, see [Calabash Landing Page](http://calaba.sh/).
+
+> Calabash is a free open source project, developed and maintained by [LessPainful - automated app testing](https://www.lesspainful.com/).
+
+> While Calabash is completely free, LessPainful provides a number of commercial services centered around Calabash and quality assurance for mobile, e.g., training, support with a SLA, consulting and finally device labs which are hosted and on-site test-execution environments which let you execute Calabash tests on a large number of Android and iOS devices.
+
+* [crashlytics][crashlytics]
+* [PonyDebugger][PonyDebugger]
+
+> PonyDebugger is a remote debugging toolset. It is a client library and gateway server combination that uses Chrome Developer Tools on your browser to debug your application's network traffic and managed object contexts.
+
+> To use PonyDebugger, you must implement the client in your application and connect it to the gateway server. There is currently an iOS client and the gateway server.
+
+> PonyDebugger is licensed under [the Apache Licence, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
+
+* [Radiator][Radiator]
+
+> A radiator view for hudson/jenkins
+
+* [VCR][VCR]
+
+> Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
+
+* [Cucumber][Cucumber]
+
+> Cucumber is a tool for running automated tests written in plain language. Because they're written in plain language, they can be read by anyone on your team. Because they can be read by anyone, you can use them to help improve communication, collaboration and trust on your team.
 
 * [Slides](http://goo.gl/pOSkp)
 
@@ -148,5 +187,14 @@ categories: testing automation
 
 [iago]: https://github.com/twitter/iago
 [Finagle]: https://github.com/twitter/finagle
-[Thrift]: http://thrift.apache.org/
+[Thrift]: http://thrift.apache.org
 [Marionette]: https://developer.mozilla.org/en-US/docs/Marionette
+[Jasmine]: https://github.com/pivotal/jasmine
+[Jenkins]: https://github.com/jenkinsci/jenkins
+[Frank]: https://github.com/moredip/Frank
+[Calabash]: https://github.com/calabash/calabash-ios
+[crashlytics]: http://try.crashlytics.com
+[PonyDebugger]: https://github.com/square/PonyDebugger
+[Radiator]: https://github.com/westarete/radiatorview-plugin
+[VCR]: https://github.com/vcr/vcr
+[Cucumber]: https://github.com/cucumber/cucumber
