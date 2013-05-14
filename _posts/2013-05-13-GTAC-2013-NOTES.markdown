@@ -8,6 +8,7 @@ tags: testing automation
 
 **[Google Test Automation Conference 2013](https://developers.google.com/google-test-automation-conference/2013)**
 
+----------------------------------------------------------------------
 
 #### Day 1
 
@@ -139,6 +140,7 @@ tags: testing automation
 
 * [Slides](http://goo.gl/278b4)
 
+----------------------------------------------------------------------
 
 #### Day 2
 
