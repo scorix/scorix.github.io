@@ -1,13 +1,11 @@
-ul {
+#post-pagination {
     border: 0;
     margin: 0;
     padding: 0;
 }
 
 #post-pagination li {
-    border: 0;
-    margin: 0;
-    padding: 0;
+    padding: 4px 6px;
     font-size: 11px;
     list-style: none;
 }
@@ -22,7 +20,6 @@ ul {
     display: block;
     float: left;
     font-weight: bold;
-    padding: 3px 4px;
 }
 
 #post-pagination .next a,
@@ -36,7 +33,6 @@ ul {
     font-weight: bold;
     display: block;
     float: left;
-    padding: 4px 6px;
 }
 
 #post-pagination a:link,
