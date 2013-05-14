@@ -4,8 +4,7 @@ title: Scorix's Blog
 ---
 
 {% for post in paginator.posts %}
-    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    <span class="date">{{ post.date | date_to_string }}</span>
+    <h3><a href="{{ post.url }}" title="Posted at {{ post.date | date_to_string }}">{{ post.title }}</a></h3>
 {% endfor %}
 
 
