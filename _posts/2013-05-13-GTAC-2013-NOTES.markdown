@@ -13,206 +13,206 @@ tags: testing automation
 
 ##### 1. Opening Keynote - Evolution from Quality Assurance to Test Engineering
 
-    *Ari Shamash* (Google)
+*Ari Shamash* (Google)
 
-    * [Slides](http://goo.gl/76Ggf)
+* [Slides](http://goo.gl/76Ggf)
 
 ##### 2. Testing Systems at Scale @Twitter
 
-    *James Waldrop* (Twitter)
+*James Waldrop* (Twitter)
 
-    * [iago][iago]
+* [iago][iago]
 
-    > A load generator, built for engineers.
+> A load generator, built for engineers.
 
-    * [Finagle][Finagle]
+* [Finagle][Finagle]
 
-    > Finagle is an extensible RPC system for the JVM, used to construct high-concurrency servers.
+> Finagle is an extensible RPC system for the JVM, used to construct high-concurrency servers.
 
-    * [Thrift][Thrift]
+* [Thrift][Thrift]
 
-    > The Apache Thrift software framework, for scalable cross-language services development, combines a software stack with a code generation engine to build services that work efficiently and seamlessly between C++, Java, Python, PHP, Ruby, Erlang, Perl, Haskell, C#, Cocoa, JavaScript, Node.js, Smalltalk, OCaml and Delphi and other languages.
+> The Apache Thrift software framework, for scalable cross-language services development, combines a software stack with a code generation engine to build services that work efficiently and seamlessly between C++, Java, Python, PHP, Ruby, Erlang, Perl, Haskell, C#, Cocoa, JavaScript, Node.js, Smalltalk, OCaml and Delphi and other languages.
 
-    * [Slides](http://goo.gl/9VY2b)
+* [Slides](http://goo.gl/9VY2b)
 
 ##### 3. How Do You Test a Mobile OS?
 
-    *David Burns* (Mozilla) and *Malini Das* (Mozilla)
+*David Burns* (Mozilla) and *Malini Das* (Mozilla)
 
-    * [Marionette][Marionette]
+* [Marionette][Marionette]
 
-    > Marionette is an automation driver.  It can remotely drive either the UI or the internal JS of a program built on the Gecko platform. Marionette runs as a server on your test machine, allowing you to connect to that server and remotely drive tests and send commands. Its goal is to replicate what selenium does for the browser: to enable the tester the ability to send commands to a remote test machine.
+> Marionette is an automation driver.  It can remotely drive either the UI or the internal JS of a program built on the Gecko platform. Marionette runs as a server on your test machine, allowing you to connect to that server and remotely drive tests and send commands. Its goal is to replicate what selenium does for the browser: to enable the tester the ability to send commands to a remote test machine.
 
-    * [Slides](http://goo.gl/7UeEI)
+* [Slides](http://goo.gl/7UeEI)
 
 ##### 4. Mobile Automation in Continuous Delivery Pipeline
 
-    *Igor Dorovskikh* (Expedia) and *Kaustubh Gawande* (Expedia)
+*Igor Dorovskikh* (Expedia) and *Kaustubh Gawande* (Expedia)
 
-    * [Jasmine][Jasmine]
+* [Jasmine][Jasmine]
 
-    > Jasmine is a Behavior Driven Development testing framework for JavaScript. It does not rely on browsers, DOM, or any JavaScript framework. Thus it's suited for websites, Node.js projects, or anywhere that JavaScript can run.
+> Jasmine is a Behavior Driven Development testing framework for JavaScript. It does not rely on browsers, DOM, or any JavaScript framework. Thus it's suited for websites, Node.js projects, or anywhere that JavaScript can run.
 
-    * [Jenkins][Jenkins]
+* [Jenkins][Jenkins]
 
-    > Jenkins Continuous Integration Server.
-    >
-    > In a nutshell Jenkins CI is the leading open-source continuous integration server. Built with Java, it provides over 300 plugins to support building and testing virtually any project.
+> Jenkins Continuous Integration Server.
+>
+> In a nutshell Jenkins CI is the leading open-source continuous integration server. Built with Java, it provides over 300 plugins to support building and testing virtually any project.
 
-    * [Frank][Frank]
+* [Frank][Frank]
 
-    > Frank is 'Selenium for native iOS apps'. It allows you to write automated acceptance tests which verify the functionality of your native iOS app.
+> Frank is 'Selenium for native iOS apps'. It allows you to write automated acceptance tests which verify the functionality of your native iOS app.
 
-    * [Calabash][Calabash]
+* [Calabash][Calabash]
 
-    > Calabash is an automated testing technology for Android and iOS native and hybrid applications. This repository contains support for iOS, for Android, see [Calabash Landing Page](http://calaba.sh/).
-    >
-    > Calabash is a free open source project, developed and maintained by [LessPainful - automated app testing](https://www.lesspainful.com/).
+> Calabash is an automated testing technology for Android and iOS native and hybrid applications. This repository contains support for iOS, for Android, see [Calabash Landing Page](http://calaba.sh/).
+>
+> Calabash is a free open source project, developed and maintained by [LessPainful - automated app testing](https://www.lesspainful.com/).
 
-    * [crashlytics][crashlytics]
+* [crashlytics][crashlytics]
 
-    * [PonyDebugger][PonyDebugger]
+* [PonyDebugger][PonyDebugger]
 
-    > PonyDebugger is a remote debugging toolset. It is a client library and gateway server combination that uses Chrome Developer Tools on your browser to debug your application's network traffic and managed object contexts.
-    >
-    > To use PonyDebugger, you must implement the client in your application and connect it to the gateway server. There is currently an iOS client and the gateway server.
-    >
-    > PonyDebugger is licensed under [the Apache Licence, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
+> PonyDebugger is a remote debugging toolset. It is a client library and gateway server combination that uses Chrome Developer Tools on your browser to debug your application's network traffic and managed object contexts.
+>
+> To use PonyDebugger, you must implement the client in your application and connect it to the gateway server. There is currently an iOS client and the gateway server.
+>
+> PonyDebugger is licensed under [the Apache Licence, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
 
-    * [Radiator][Radiator]
+* [Radiator][Radiator]
 
-    > A radiator view for hudson/jenkins
+> A radiator view for hudson/jenkins
 
-    * [VCR][VCR]
+* [VCR][VCR]
 
-    > Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
+> Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
 
-    * [Cucumber][Cucumber]
+* [Cucumber][Cucumber]
 
-    > Cucumber is a tool for running automated tests written in plain language. Because they're written in plain language, they can be read by anyone on your team. Because they can be read by anyone, you can use them to help improve communication, collaboration and trust on your team.
+> Cucumber is a tool for running automated tests written in plain language. Because they're written in plain language, they can be read by anyone on your team. Because they can be read by anyone, you can use them to help improve communication, collaboration and trust on your team.
 
-    * [Slides](http://goo.gl/pOSkp)
+* [Slides](http://goo.gl/pOSkp)
 
 ##### 5. Automated Set-Top Box Testing with GStreamer and OpenCV
 
-    *David Röthlisberger* (YouView)
+*David Röthlisberger* (YouView)
 
-    * [Video on Youtube](http://www.youtube.com/watch?v=Fdn2LxxM7wA&list=SPSIUOFhnxEiCODb8XQB-RUQ0RGNZ2yW7d)
+* [Video on Youtube](http://www.youtube.com/watch?v=Fdn2LxxM7wA&list=SPSIUOFhnxEiCODb8XQB-RUQ0RGNZ2yW7d)
 
 ##### 6. Webdriver for Chrome
 
-    *Ken Kania* (Google)
+*Ken Kania* (Google)
 
-    * [Slides](http://goo.gl/6rA9q)
+* [Slides](http://goo.gl/6rA9q)
 
 ##### 7. Karma - Test Runner for JavaScript
 
-    *Vojta Jina* (Google)
+*Vojta Jina* (Google)
 
-    * [Karma][Karma]
+* [Karma][Karma]
 
-    > A simple tool that allows you to execute JavaScript code in multiple real browsers, powered by Node.js and Socket.io.
+> A simple tool that allows you to execute JavaScript code in multiple real browsers, powered by Node.js and Socket.io.
 
-    * [Video on Youtube](http://www.youtube.com/watch?v=YG5DEzaQBIc&list=SPSIUOFhnxEiCODb8XQB-RUQ0RGNZ2yW7d)
+* [Video on Youtube](http://www.youtube.com/watch?v=YG5DEzaQBIc&list=SPSIUOFhnxEiCODb8XQB-RUQ0RGNZ2yW7d)
 
 ##### 8. Automated Video Quality Measurements
 
-    *Patrik Höglund* (Google)
+*Patrik Höglund* (Google)
 
-    * [Slides](http://goo.gl/sF7Fm)
+* [Slides](http://goo.gl/sF7Fm)
 
 ##### 9. When Bad Things Happen to Good Applications...
 
-    *Minal Mishra* (Netflix)
+*Minal Mishra* (Netflix)
 
-    * [Slides](http://goo.gl/8epF0)
+* [Slides](http://goo.gl/8epF0)
 
 ##### 10. Testing for Educational Gaming and Educational Gaming for Testing
 
-    *Tao Xie* (North Carolina State University)
+*Tao Xie* (North Carolina State University)
 
-    * [Slides](http://goo.gl/wb3nm)
+* [Slides](http://goo.gl/wb3nm)
 
 ##### 11. Closing Keynote - How Facebook Tests Facebook on Android
 
-    *Simon Stewart* (Facebook)
+*Simon Stewart* (Facebook)
 
-    * [Slides](http://goo.gl/278b4)
+* [Slides](http://goo.gl/278b4)
 
 
 #### Day 2
 
 ##### 1. Opening Keynote - Testable JavaScript - Architecting Your Application for Testability
 
-    *Mark Trostler* (Google)
+*Mark Trostler* (Google)
 
-    * [Slides](http://goo.gl/E1v14)
+* [Slides](http://goo.gl/E1v14)
 
 ##### 2. Breaking the Matrix - Android Testing at Scale
 
-    *Thomas Knych* (Google), *Stefan Ramsauer* (Google) and *Valera Zakharov* (Google)
+*Thomas Knych* (Google), *Stefan Ramsauer* (Google) and *Valera Zakharov* (Google)
 
-    * [Slides](http://goo.gl/RltPp)
+* [Slides](http://goo.gl/RltPp)
 
 ##### 3. Android UI Automation
 
-    *Guang Zhu (朱光)* (Google) and *Adam Momtaz* (Google)
+*Guang Zhu (朱光)* (Google) and *Adam Momtaz* (Google)
 
-    * [Slides](http://goo.gl/kpJCL)
+* [Slides](http://goo.gl/kpJCL)
 
 ##### 4. Appium: Automation for Mobile Apps
 
-    *Jonathan Lipps* (Sauce Labs)
+*Jonathan Lipps* (Sauce Labs)
 
-    * [Slides](http://goo.gl/IuvKF)
+* [Slides](http://goo.gl/IuvKF)
 
 ##### 5. Building Scalable Mobile Test Infrastructure for Google+ Mobile
 
-    *Eduardo Bravo* (Google)
+*Eduardo Bravo* (Google)
 
-    * [Slides](http://goo.gl/xWZKt)
+* [Slides](http://goo.gl/xWZKt)
 
 ##### 6. Espresso: Fresh Start to Android UI Testing
 
-    *Valera Zakharov* (Google)
+*Valera Zakharov* (Google)
 
-    * [Slides](http://goo.gl/ieunS)
+* [Slides](http://goo.gl/ieunS)
 
 ##### 7. Web Performance Testing with WebDriver
 
-    *Michael Klepikov* (Google)
+*Michael Klepikov* (Google)
 
-    * [Slides](http://goo.gl/5QHVY)
+* [Slides](http://goo.gl/5QHVY)
 
 ##### 8. Continuous Maps Data Testing
 
-    *Yvette Nameth* (Google) and *Brendan Dhein* (Google)
+*Yvette Nameth* (Google) and *Brendan Dhein* (Google)
 
-    * [Slides](http://goo.gl/UG3BN)
+* [Slides](http://goo.gl/UG3BN)
 
 ##### 9. Finding Culprits Automatically in Failing Builds - i.e. Who Broke the Build?
 
-    *Celal Ziftci* (UCSD) and *Vivek Ramavajjala* (Google)
+*Celal Ziftci* (UCSD) and *Vivek Ramavajjala* (Google)
 
-    * [Slides](http://goo.gl/q9dGd)
+* [Slides](http://goo.gl/q9dGd)
 
 ##### 10. Empirical Investigation of Software Product Line Quality
 
-    *Katerina Goseva-Popstojanova* (West Virginia University)
+*Katerina Goseva-Popstojanova* (West Virginia University)
 
-    * [Slides](http://goo.gl/pPQ1u)
+* [Slides](http://goo.gl/pPQ1u)
 
 ##### 11. AddressSanitizer, ThreadSanitizer and MemorySanitizer -- Dynamic Testing Tools for C++
 
-    *Kostya Serebryany* (Google)
+*Kostya Serebryany* (Google)
 
-    * [Slides](http://goo.gl/FPVd8)
+* [Slides](http://goo.gl/FPVd8)
 
 ##### 12. Closing Keynote - Drinking the Ocean - Finding XSS at Google Scale
 
-    *Claudio Criscione* (Google)
+*Claudio Criscione* (Google)
 
-    * [Slides](http://goo.gl/8qqHA)
+* [Slides](http://goo.gl/8qqHA)
 
 [iago]: https://github.com/twitter/iago
 [Finagle]: https://github.com/twitter/finagle
