@@ -6,4 +6,4 @@ categories: GTAC
 tags: testing automation
 ---
 
-<iframe width="640" height="360" src="http://www.youtube.com/embed/ShBxhL4t7i0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="http://www.youtube.com/embed/ShBxhL4t7i0" frameborder="0"></iframe>
