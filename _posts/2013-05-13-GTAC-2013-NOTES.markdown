@@ -100,6 +100,10 @@ categories: testing automation
 ### Karma - Test Runner for JavaScript
 *Vojta Jina* (Google)
 
+* [Karma][Karma]
+
+> A simple tool that allows you to execute JavaScript code in multiple real browsers, powered by Node.js and Socket.io.
+
 * [Video on Youtube](http://www.youtube.com/watch?v=YG5DEzaQBIc&list=SPSIUOFhnxEiCODb8XQB-RUQ0RGNZ2yW7d)
 
 ### Automated Video Quality Measurements
@@ -198,3 +202,4 @@ categories: testing automation
 [Radiator]: https://github.com/westarete/radiatorview-plugin
 [VCR]: https://github.com/vcr/vcr
 [Cucumber]: https://github.com/cucumber/cucumber
+[Karma]: https://github.com/karma-runner/karma
