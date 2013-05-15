@@ -1,6 +1,6 @@
 name: Scorix's Blog
 pygments: true
-paginate: 10
+paginate: 5
 timezone: Asia/Shanghai
 desc: Personal Github Pages
 url: http://scorix.github.io
