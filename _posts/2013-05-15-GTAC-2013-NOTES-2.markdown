@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GTAC 2013 NOTE of Day 2"
-date:   2013-05-13 22:49:00
+date:   2013-05-15 10:02:56
 categories: GTAC
 tags: testing automation
 ---
