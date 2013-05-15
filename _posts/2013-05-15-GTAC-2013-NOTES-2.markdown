@@ -1,0 +1,83 @@
+---
+layout: post
+title:  "GTAC 2013 NOTE of Day 2"
+date:   2013-05-13 22:49:00
+categories: GTAC
+tags: testing automation
+---
+
+**[Google Test Automation Conference 2013](https://developers.google.com/google-test-automation-conference/2013)**
+
+----------------------------------------------------------------------
+
+#### 1. Opening Keynote - Testable JavaScript - Architecting Your Application for Testability
+
+*Mark Trostler* (Google)
+
+* [Slides](http://goo.gl/E1v14)
+
+#### 2. Breaking the Matrix - Android Testing at Scale
+
+*Thomas Knych* (Google), *Stefan Ramsauer* (Google) and *Valera Zakharov* (Google)
+
+* [Slides](http://goo.gl/RltPp)
+
+#### 3. Android UI Automation
+
+*Guang Zhu (朱光)* (Google) and *Adam Momtaz* (Google)
+
+* [Slides](http://goo.gl/kpJCL)
+
+#### 4. Appium: Automation for Mobile Apps
+
+*Jonathan Lipps* (Sauce Labs)
+
+* [Slides](http://goo.gl/IuvKF)
+
+#### 5. Building Scalable Mobile Test Infrastructure for Google+ Mobile
+
+*Eduardo Bravo* (Google)
+
+* [Slides](http://goo.gl/xWZKt)
+
+#### 6. Espresso: Fresh Start to Android UI Testing
+
+*Valera Zakharov* (Google)
+
+* [Slides](http://goo.gl/ieunS)
+
+#### 7. Web Performance Testing with WebDriver
+
+*Michael Klepikov* (Google)
+
+* [Slides](http://goo.gl/5QHVY)
+
+#### 8. Continuous Maps Data Testing
+
+*Yvette Nameth* (Google) and *Brendan Dhein* (Google)
+
+* [Slides](http://goo.gl/UG3BN)
+
+#### 9. Finding Culprits Automatically in Failing Builds - i.e. Who Broke the Build?
+
+*Celal Ziftci* (UCSD) and *Vivek Ramavajjala* (Google)
+
+* [Slides](http://goo.gl/q9dGd)
+
+#### 10. Empirical Investigation of Software Product Line Quality
+
+*Katerina Goseva-Popstojanova* (West Virginia University)
+
+* [Slides](http://goo.gl/pPQ1u)
+
+#### 11. AddressSanitizer, ThreadSanitizer and MemorySanitizer -- Dynamic Testing Tools for C++
+
+*Kostya Serebryany* (Google)
+
+* [Slides](http://goo.gl/FPVd8)
+
+#### 12. Closing Keynote - Drinking the Ocean - Finding XSS at Google Scale
+
+*Claudio Criscione* (Google)
+
+* [Slides](http://goo.gl/8qqHA)

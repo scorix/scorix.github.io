@@ -1,0 +1,160 @@
+---
+layout: post
+title:  "GTAC 2013 NOTE of Day 1"
+date:   2013-05-13 22:49:00
+categories: GTAC
+tags: testing automation
+---
+
+**[Google Test Automation Conference 2013](https://developers.google.com/google-test-automation-conference/2013)**
+
+----------------------------------------------------------------------
+
+#### 1. Opening Keynote - Evolution from Quality Assurance to Test Engineering
+
+*Ari Shamash* (Google)
+
+* [Slides](http://goo.gl/76Ggf)
+
+#### 2. Testing Systems at Scale @Twitter
+
+*James Waldrop* (Twitter)
+
+* [iago][iago]
+
+	> A load generator, built for engineers.
+
+* [Finagle][Finagle]
+
+	> Finagle is an extensible RPC system for the JVM, used to construct high-concurrency servers.
+
+* [Thrift][Thrift]
+
+	> The Apache Thrift software framework, for scalable cross-language services development, combines a software stack with a code generation engine to build services that work efficiently and seamlessly between C++, Java, Python, PHP, Ruby, Erlang, Perl, Haskell, C#, Cocoa, JavaScript, Node.js, Smalltalk, OCaml and Delphi and other languages.
+
+* [Slides](http://goo.gl/9VY2b)
+
+#### 3. How Do You Test a Mobile OS?
+
+*David Burns* (Mozilla) and *Malini Das* (Mozilla)
+
+* [Marionette][Marionette]
+
+	> Marionette is an automation driver.  It can remotely drive either the UI or the internal JS of a program built on the Gecko platform. Marionette runs as a server on your test machine, allowing you to connect to that server and remotely drive tests and send commands. Its goal is to replicate what selenium does for the browser: to enable the tester the ability to send commands to a remote test machine.
+
+* [Slides](http://goo.gl/7UeEI)
+
+#### 4. Mobile Automation in Continuous Delivery Pipeline
+
+*Igor Dorovskikh* (Expedia) and *Kaustubh Gawande* (Expedia)
+
+* [Jasmine][Jasmine]
+
+	> Jasmine is a Behavior Driven Development testing framework for JavaScript. It does not rely on browsers, DOM, or any JavaScript framework. Thus it's suited for websites, Node.js projects, or anywhere that JavaScript can run.
+
+* [Jenkins][Jenkins]
+
+	> Jenkins Continuous Integration Server.
+	>
+	> In a nutshell Jenkins CI is the leading open-source continuous integration server. Built with Java, it provides over 300 plugins to support building and testing virtually any project.
+
+* [Frank][Frank]
+
+	> Frank is 'Selenium for native iOS apps'. It allows you to write automated acceptance tests which verify the functionality of your native iOS app.
+
+* [Calabash][Calabash]
+
+	> Calabash is an automated testing technology for Android and iOS native and hybrid applications. This repository contains support for iOS, for Android, see [Calabash Landing Page](http://calaba.sh/).
+	>
+	> Calabash is a free open source project, developed and maintained by [LessPainful - automated app testing](https://www.lesspainful.com/).
+
+* [crashlytics][crashlytics]
+
+* [PonyDebugger][PonyDebugger]
+
+	> PonyDebugger is a remote debugging toolset. It is a client library and gateway server combination that uses Chrome Developer Tools on your browser to debug your application's network traffic and managed object contexts.
+	>
+	> To use PonyDebugger, you must implement the client in your application and connect it to the gateway server. There is currently an iOS client and the gateway server.
+	>
+	> PonyDebugger is licensed under [the Apache Licence, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
+
+* [Radiator][Radiator]
+
+	> A radiator view for hudson/jenkins
+
+* [VCR][VCR]
+
+	> Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
+
+* [Cucumber][Cucumber]
+
+	> Cucumber is a tool for running automated tests written in plain language. Because they're written in plain language, they can be read by anyone on your team. Because they can be read by anyone, you can use them to help improve communication, collaboration and trust on your team.
+
+* [Slides](http://goo.gl/pOSkp)
+
+#### 5. Automated Set-Top Box Testing with GStreamer and OpenCV
+
+*David Röthlisberger* (YouView)
+
+* [Video on Youtube](http://www.youtube.com/watch?v=Fdn2LxxM7wA&list=SPSIUOFhnxEiCODb8XQB-RUQ0RGNZ2yW7d)
+
+#### 6. Webdriver for Chrome
+
+*Ken Kania* (Google)
+
+* [Slides](http://goo.gl/6rA9q)
+
+#### 7. Karma - Test Runner for JavaScript
+
+*Vojta Jina* (Google)
+
+* [Karma][Karma]
+
+	> A simple tool that allows you to execute JavaScript code in multiple real browsers, powered by Node.js and Socket.io.
+
+* [Video on Youtube](http://www.youtube.com/watch?v=YG5DEzaQBIc&list=SPSIUOFhnxEiCODb8XQB-RUQ0RGNZ2yW7d)
+
+#### 8. Automated Video Quality Measurements
+
+*Patrik Höglund* (Google)
+
+* [Slides](http://goo.gl/sF7Fm)
+
+#### 9. When Bad Things Happen to Good Applications...
+
+*Minal Mishra* (Netflix)
+
+* [Slides](http://goo.gl/8epF0)
+
+#### 10. Testing for Educational Gaming and Educational Gaming for Testing
+
+*Tao Xie* (North Carolina State University)
+
+* [Slides](http://goo.gl/wb3nm)
+
+#### 11. Closing Keynote - How Facebook Tests Facebook on Android
+
+*Simon Stewart* (Facebook)
+
+* [Buck][Buck]
+
+	> Buck is an Android build tool. To see what Buck can do for you, check out the documentation at [here](http://facebook.github.io/buck/)
+
+* [Slides](http://goo.gl/278b4)
+
+
+[iago]: https://github.com/twitter/iago
+[Finagle]: https://github.com/twitter/finagle
+[Thrift]: http://thrift.apache.org
+[Marionette]: https://developer.mozilla.org/en-US/docs/Marionette
+[Jasmine]: https://github.com/pivotal/jasmine
+[Jenkins]: https://github.com/jenkinsci/jenkins
+[Frank]: https://github.com/moredip/Frank
+[Calabash]: https://github.com/calabash/calabash-ios
+[crashlytics]: http://try.crashlytics.com
+[PonyDebugger]: https://github.com/square/PonyDebugger
+[Radiator]: https://github.com/westarete/radiatorview-plugin
+[VCR]: https://github.com/vcr/vcr
+[Cucumber]: https://github.com/cucumber/cucumber
+[Karma]: https://github.com/karma-runner/karma
+[Buck]: https://github.com/facebook/buck
