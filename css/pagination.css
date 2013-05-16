@@ -2,12 +2,10 @@
     border: 0;
     margin: 0;
     padding: 10px 80px;
-    border: solid 1px #DEDEDE;
-    margin-right: 2px;
 }
 
 .pagination li {
-    padding: 4px 2px;
+    padding: 4px 6px;
     font-size: 11px;
     list-style: none;
     float: left;
@@ -22,7 +20,6 @@
 .pagination .next,
 .pagination .previous {
     font-weight: bold;
-    border: solid 1px #FFFFFF;
 }
 
 .pagination .current {
@@ -36,6 +33,7 @@
     color: #0033CC;
     display: block;
     text-decoration: none;
+    border-bottom: solid;
 }
 
 .pagination a:hover {
