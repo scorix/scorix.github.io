@@ -375,7 +375,6 @@ Full-Width Styles
     background: #212121;
 }
 
-
 /*******************************************************************************
 post tags
 *******************************************************************************/
@@ -399,6 +398,18 @@ ul.tags {
 ul.tag_list {
     margin-left: 52px;
     padding-bottom: 20px;
+}
+
+li.tag_list_item {
+    line-height: 1;
+    list-style: none;
+    margin: 0;
+}
+
+li.archive_list {
+    list-style: none;
+    margin: 0;
+    padding-bottom: 10px;
 }
 
 /*******************************************************************************
