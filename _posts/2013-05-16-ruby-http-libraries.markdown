@@ -3,7 +3,9 @@ layout: post
 title:  "Ruby HTTP libraries"
 date:   2013-05-16 15:47:46
 categories: ruby
-tags: ruby http
+tags:
+    -ruby
+    -http
 ---
 
 * [Patron](https://github.com/toland/patron) 

@@ -3,7 +3,9 @@ layout: post
 title:  "GTAC 2013 NOTE of Day 2"
 date:   2013-05-15 10:02:56
 categories: GTAC
-tags: testing automation
+tags:
+    -testing
+    -automation
 ---
 
 **[Google Test Automation Conference 2013](https://developers.google.com/google-test-automation-conference/2013)**
