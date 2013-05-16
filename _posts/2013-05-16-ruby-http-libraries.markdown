@@ -6,7 +6,6 @@ categories: ruby
 tags: ruby http
 ---
 
-#### Ruby HTTP libraries:
 * [Patron](https://github.com/toland/patron) 
 * [Curb](https://github.com/taf2/curb)
 * [HTTPClient](https://github.com/nahi/httpclient)
