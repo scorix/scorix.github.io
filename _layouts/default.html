@@ -25,6 +25,8 @@
         <h1 id="project_title"><a href="{{ site.url }}"> {{ site.name }} </a></h1>
 
         <h2 id="project_tagline">{{ site.desc }}</h2>
+
+        <gcse:search></gcse:search>
     </header>
 </div>
 
@@ -68,6 +70,17 @@
 
     ga('create', 'UA-40878617-1', 'github.io');
     ga('send', 'pageview');
+
+    (function() {
+        var cx = '007864199616662465859:9n9qqxacdzw';
+        var gcse = document.createElement('script');
+        gcse.type = 'text/javascript';
+        gcse.async = true;
+        gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+            '//www.google.com/cse/cse.js?cx=' + cx;
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(gcse, s);
+    })();
 </script>
 
 </html>
