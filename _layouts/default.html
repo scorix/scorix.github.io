@@ -12,6 +12,7 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="/css/stylesheet.css">
     <link rel="stylesheet" href="/css/pagination.css">
+    <link rel="stylesheet" href="/css/google-search.css">
 </head>
 
 
@@ -26,7 +27,7 @@
 
         <h2 id="project_tagline">{{ site.desc }}</h2>
 
-        <gcse:search></gcse:search>
+        <div id='cse' style='width: 100%;'>Loading</div>
     </header>
 </div>
 
@@ -70,17 +71,24 @@
 
     ga('create', 'UA-40878617-1', 'github.io');
     ga('send', 'pageview');
+</script>
 
-    (function() {
-        var cx = '007864199616662465859:9n9qqxacdzw';
-        var gcse = document.createElement('script');
-        gcse.type = 'text/javascript';
-        gcse.async = true;
-        gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-            '//www.google.com/cse/cse.js?cx=' + cx;
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(gcse, s);
-    })();
+<script><script src='//www.google.com/jsapi' type='text/javascript'></script>
+<script>
+    google.load('search', '1', {language: 'en', style: google.loader.themes.V2_DEFAULT});
+    google.setOnLoadCallback(function() {
+        var customSearchOptions = {};
+        var orderByOptions = {};
+        orderByOptions['keys'] = [{label: 'Relevance', key: ''} , {label: 'Date', key: 'date'}];
+        customSearchOptions['enableOrderBy'] = true;
+        customSearchOptions['orderByOptions'] = orderByOptions;
+        customSearchOptions['overlayResults'] = true;
+        var customSearchControl =   new google.search.CustomSearchControl('007864199616662465859:9n9qqxacdzw', customSearchOptions);
+        customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+        var options = new google.search.DrawOptions();
+        options.setAutoComplete(true);
+        customSearchControl.draw('cse', options);
+    }, true);
 </script>
 
 </html>
