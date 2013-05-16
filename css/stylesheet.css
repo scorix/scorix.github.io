@@ -375,6 +375,32 @@ Full-Width Styles
     background: #212121;
 }
 
+
+/*******************************************************************************
+post tags
+*******************************************************************************/
+
+ul.tag_list_in_post {
+    border-left: 1px solid #bbb;
+    display: inline;
+    margin-left: 15px;
+    padding: 0 0 0 10px;
+}
+
+#main_content ul.tag_list_in_post {
+    padding-bottom: 0
+}
+
+ul.tags {
+    float: right;
+    width: 280px
+}
+
+ul.tag_list {
+    margin-left: 52px;
+    padding-bottom: 20px;
+}
+
 /*******************************************************************************
 Small Device Styles
 *******************************************************************************/
