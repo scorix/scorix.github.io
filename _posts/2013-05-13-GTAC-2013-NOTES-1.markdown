@@ -4,8 +4,8 @@ title:  "GTAC 2013 NOTE of Day 1"
 date:   2013-05-13 22:49:00
 categories: GTAC
 tags:
-    -testing
-    -automation
+- testing
+- automation
 ---
 
 **[Google Test Automation Conference 2013](https://developers.google.com/google-test-automation-conference/2013)**
