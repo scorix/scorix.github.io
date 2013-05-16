@@ -10,7 +10,6 @@
     list-style: none;
 }
 
-.pagination li,
 .pagination a {
     border: solid 1px #DEDEDE;
     margin-right: 2px;
